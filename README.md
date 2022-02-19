@@ -1,23 +1,23 @@
 
 
-<h1 align="left">Hi 👋 I'm Rocio,</h1>
-<h3 align="left">A laugher frontend!</h3>
-<!-- After a long career in the world of social entrepreneurship, training and sustainable design, I decided to broaden my sights and discover the horizons of the IT sector. -->
+<h1 align="left">Hola red!!👋</h1>
+  <h2>Mi nombre es Rocío.<h2>
+  <h3 align="left"> Me defino como una persona contanstante y comprometida. <br>
+   Decidí ampliar mis miras y descubrir los horizontes del sector informático, el cual no deja de sorprender y eso me anima a descrubir más.<br>
+    Me encanta el diseño, darle la vuelta a las ideas y pienso que tengo mucho que aportar a ésta gran inmensa comunidad.<br>
+Recien terminé un curso intensivo con Adalab, busco una oportunidad y siento que está ahí cerquita, así que a seguir trabajando!!</h3>
+<br>
 
 
-- 🔭 I’m currently working on my portfolio 🔭
+- 🔭 Estoy trabajando en mi portfolio donde publicaré todos mis proyectos🔭
 
-- 🌱 I’m currently learning **Agile and Scrum methodology and gambling with JS and React**
+- 🌱 Me encanta la cocina, mis perretes, la naturaleza, deporte y muchas cosas bonitas.
 
-- 👯 I’m looking to collaborate on **social projects**
+- 👯 ** Me encantaría colaborar en algún proyecto social y/o medioambiental.
 
-- 🤝 I’m looking for help with **my previous career path**
+- 🤝 Buscando una oportunidad para comenzar a desarrollarme profesionalmente en éste sector
 
-
-
-### 📚 IT Skills...
-
-##### Programming 
+<br> 📚 Competencias IT
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -42,20 +42,7 @@
 <br>
 
 
-
-##### Design
-
-<img align="left" alt="Indesign" width="35px" src="https://thinkvox.com.mx/wp-content/uploads/2020/08/Logo-adobe-indesign.png" />
-
-<img align="left" alt="Illustrator" width="27px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" />
-
-<img align="left" alt="Photoshop" width="65px" src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" />
-
-<br>
-<br>
-
-
-##### Tools
+Herramientas
 
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
@@ -71,10 +58,9 @@
 
 
 
+<br><p align="left">💬 Contacto:<p>
 
-### 💬 Contact:
-
-📫 How to reach me **rdolspividal@gmail.com**
+📫 Me puedes escribir: **rdolspividal@gmail.com**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rocio-dols//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura graizer" height="20" width="40" />Rocío Dols</a>

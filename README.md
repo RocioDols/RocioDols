@@ -3,7 +3,7 @@
 
 <h1 align="left">Hola red!!👋</h1>
   <h2>Mi nombre es Rocío.<h2>
-  <h3 align="left"> Me defino como una persona constantante y comprometida. <br>
+  <h3 align="left"> Me defino como una persona constante y comprometida. <br>
    Decidí ampliar mis miras y descubrir los horizontes del sector informático, el cual no deja de sorprender y eso me anima a descrubir más.<br>
     Me encanta el diseño, darle la vuelta a las ideas y pienso que tengo mucho que aportar a ésta gran inmensa comunidad.<br>
 Recien terminé un curso intensivo con Adalab, busco una oportunidad y siento que está ahí cerquita, así que a seguir trabajando!!</h3>

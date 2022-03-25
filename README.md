@@ -14,7 +14,7 @@ Recien terminé un curso intensivo con Adalab, busco una oportunidad y siento qu
 
 - 🌱 Me encanta la cocina, mis perretes, la naturaleza, deporte y muchas cosas bonitas.
 
-- 👯 ** Me encantaría colaborar en algún proyecto social y/o medioambiental.
+- 👯 Me encantaría colaborar en algún proyecto social y/o medioambiental.
 
 - 🤝 Buscando una oportunidad para comenzar a desarrollarme profesionalmente en éste sector.
 
